@@ -12,8 +12,8 @@ Feature: loteriada
     And Wpisuje zlote "<zlote>"
     And Wpisuje grosze "<grosze>"
     And Wybieram branze "<branza>"
-    And Wpisuje email "tomasz.myszka@outlook.com"
-    And Wpisuje numer telefonu "667590314"
+    And Wpisuje email "test@outlook.com"
+    And Wpisuje numer telefonu "123456789"
     And Rozwiazuje zagadke
     And Potwierdzam opcje
     Then Wysylam formularz
