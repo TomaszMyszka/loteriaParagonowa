@@ -1,4 +1,3 @@
-@runThis
 Feature: loteriada
 
   Scenario:
