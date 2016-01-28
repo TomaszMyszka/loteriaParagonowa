@@ -22,7 +22,7 @@ Feature: loteriada
       | numer_kasy    | NIP           | dzien | nr_paragonu | zlote | grosze | branza |
       | CAJ1501321291 | 583-00-12-242 | 16    | W006674     | 14    | 55     | inne   |
       | ABJ04129110   | 583-00-12-242 | 28    | W165207     | 15    | 59     | inne   |
-      | CAJ1501321268 | 583-00-12-242 | 28    | W013572     | 20    | 99     | inne   |
+      | CAJ15013212681 | 583-00-12-242 | 28    | W013572     | 20    | 99     | inne   |
 
 
 
