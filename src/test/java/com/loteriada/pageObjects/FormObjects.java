@@ -119,10 +119,10 @@ public class FormObjects {
     @FindBy(how = How.CLASS_NAME, using = "cookies_close")
     private WebElement closeCookiesElement;
 
-    @FindBy(how = How.XPATH, using = "//body/div[2]/div/div[3]/div/div/div/span")
+    @FindBy(how = How.XPATH, using = "//span[@class=\"popup-exit\"]")
     private WebElement closePopUpElement;
 
-    @FindBy(how = How.XPATH, using = "//html/body/div[2]/div/div[3]/div/a")
+    @FindBy(how = How.XPATH, using = "//a[@class=\"zglos\"]")
     private WebElement confirmSendElement;
 
     public void acceptCookies() {
